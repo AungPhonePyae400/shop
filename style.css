@@ -1,0 +1,32 @@
+.carouselheight{
+
+		width: 100%;
+		height: 600px;
+	
+		}
+.maincontent{
+
+	width: 100%;
+	height:auto;
+
+}
+
+.bselling {
+
+	width: 100%;
+	height:80px;
+	background-color: #a3080c;
+	box-shadow:0px 0px 8px 0px black;
+	margin:10px 0px;
+}
+
+.bselling h1{
+
+	color:white;
+	text-align: center;
+	font-family: Times New Roman;
+	padding-top:10px;
+}
+
+
+	
